@@ -1,2 +1,2 @@
 # typescript-for-beginners
-Simple Typescript Tutorial
+Simple Typescript Setup Tutorial
