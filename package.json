@@ -1,0 +1,17 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts",
+    "start": "node index.js",
+    "config": "tsc --init"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
